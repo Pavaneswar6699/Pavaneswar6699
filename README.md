@@ -15,4 +15,4 @@ I'm an Electronics and Communication Engineering undergrad at IIIT Hyderabad (20
 
 **Tools I use:** Python · C · JavaScript (React, Node.js) · Verilog · ROS · Git · Linux
 
-[LinkedIn](https://www.linkedin.com/in/pavaneswar-nelagonda)
+[LinkedIn](https://www.linkedin.com/in/pavaneswar-nelagonda-101a5431b)
